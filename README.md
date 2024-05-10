@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **loganbryan234@gmail.com**
 
-- 💻 My portfolio **https://loganbryan.github.io**
+- 💻 My portfolio **https://www.loganbryan.dev/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
