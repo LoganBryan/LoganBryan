@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Logan</h1>
-<h3 align="center">Student at Staffordshire University</h3>
+<h1 align="center">👋 Hello, Hej 👋</h1>
 
 - 🌱 Currently working on [Gaia](https://github.com/LoganBryan/Gaia)
 
