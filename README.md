@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Logan</h1>
 <h3 align="center">Student at Staffordshire University</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 Currently working on [Gaia](https://github.com/LoganBryan/Gaia)
 
 - 📫 How to reach me **loganbryan234@gmail.com**
 
